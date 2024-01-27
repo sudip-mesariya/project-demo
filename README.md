@@ -1,4 +1,4 @@
 # project-demo
 This is my first Git repository
 <br>
-Author - sudip mesariya
+Author - sudip (sarkar)
